@@ -12,4 +12,4 @@ def speak(text):
     playsound.playsound(filename)
 
 
-speak("Hello Anuska")
+speak("Hello everyone!")
